@@ -56,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/middle/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
               <folding>
                 <element signature="e#24#52#0" expanded="true" />
               </folding>
@@ -68,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/middle/user_views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="238" column="31" lean-forward="true" selection-start-line="238" selection-start-column="31" selection-end-line="238" selection-end-column="31" />
+              <caret line="238" column="31" selection-start-line="238" selection-start-column="31" selection-end-line="238" selection-end-column="31" />
               <folding>
                 <element signature="e#51#101#0" expanded="true" />
               </folding>
@@ -77,6 +77,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -92,6 +95,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1039" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -203,12 +207,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560157218086</updated>
       <workItem from="1560157219291" duration="1960000" />
-      <workItem from="1560216788967" duration="273000" />
+      <workItem from="1560216788967" duration="529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2233000" />
+    <option name="totallyTimeSpent" value="2489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1039" extended-state="6" />
@@ -220,7 +224,7 @@
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Python Console" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.32998884" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.33146697" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
@@ -277,7 +281,7 @@
     <entry file="file://$PROJECT_DIR$/middle/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="e#24#52#0" expanded="true" />
           </folding>
@@ -287,7 +291,7 @@
     <entry file="file://$PROJECT_DIR$/middle/user_views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="238" column="31" lean-forward="true" selection-start-line="238" selection-start-column="31" selection-end-line="238" selection-end-column="31" />
+          <caret line="238" column="31" selection-start-line="238" selection-start-column="31" selection-end-line="238" selection-end-column="31" />
           <folding>
             <element signature="e#51#101#0" expanded="true" />
           </folding>
